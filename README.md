@@ -1,10 +1,8 @@
 # Kuala Lumpur - The Property Price Trends
-Analysing the price trends for the properties in Kuala Lumpur. For explanation of the project, view the blog post below
-https://medium.com/@abbasali.io/kuala-lumpur-the-property-price-trends-ffca6fb94a71
+Analysing the price trends for the properties in Kuala Lumpur. For explanation of the project, [view the blog post here](https://medium.com/@abbasali.io/kuala-lumpur-the-property-price-trends-ffca6fb94a71)
 
 ## Dataset
-You can download the dataset required from Kaggle at this address 
-https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Fdragonduck%2Fproperty-listings-in-kuala-lumpur%23
+You can download the dataset required from Kaggle [at this Link](https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Fdragonduck%2Fproperty-listings-in-kuala-lumpur%23)
 
 
 ## What are we looking for?
